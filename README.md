@@ -1,7 +1,11 @@
 install java latest version
+
 install netbeans 
+
 install mysql server or phpmyadmin
+
 import project in netbeans
+
 import examshow.sql in sql server
 
 database setup
