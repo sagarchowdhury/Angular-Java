@@ -1,6 +1,3 @@
-
-
----------------- JAVA---------------------
 install java latest version
 install netbeans 
 install mysql server or phpmyadmin
